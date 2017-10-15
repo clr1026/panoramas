@@ -1,8 +1,7 @@
 % Final Project
 % Implement Panoramic Image Stitching using Invarient Features 
 % (Matthew Brown & David G. Lowe 2007)
-% Shih-Hsuan CHu
-% N10854189
+
 
 %===============================================================
 clear all;
