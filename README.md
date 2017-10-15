@@ -11,4 +11,4 @@ Input: in this project I chose 4 ordered images
          I. Extract SIFT features from images
         II. Find geometrically consistent feature matches using RANSAC to solve homography between pairs of images
        III. Find connected components of image matches
-Output: Panoramic image
+Output: Panoramic image 
