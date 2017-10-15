@@ -1,7 +1,7 @@
 % Final Project
 % Implement Panoramic Image Stitching using Invarient Features 
 % (Matthew Brown & David G. Lowe 2007)
-
+% Final project of Computational photography @ NYU
 
 %===============================================================
 clear all;
